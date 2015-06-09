@@ -1,0 +1,9 @@
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\bin\Debug\SerializeJson.exe.config
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\bin\Debug\SerializeJson.exe
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\bin\Debug\SerializeJson.pdb
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\bin\Debug\Newtonsoft.Json.dll
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\bin\Debug\Newtonsoft.Json.xml
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\obj\Debug\SerializeJson.csprojResolveAssemblyReference.cache
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\obj\Debug\SerializeJson.exe
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\obj\Debug\SerializeJson.pdb
+C:\WorkArea\JsonSerialization\SerializeJson\SerializeJson\bin\Debug\personJson.txt

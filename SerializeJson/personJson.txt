@@ -1,0 +1,48 @@
+﻿{
+	"Persons":
+	 [
+		{
+			"Name": "A.Inayathullah",
+			"Dob": "12/22/1979",
+			"Designation": "Technical Lead",
+			"Address":[
+				{
+					"Type": "Home",
+					"Address1": "Top Flat",
+					"Address2": "46, POLSLOE ROAD",
+					"Address3": "EX1 2DR",
+					"City": "Exeter",
+				},
+				{
+					"Type": "Office",
+					"Address1": "UST GLobal",
+					"Address2": "Porsman Road",
+					"Address3": "LN3 UH",
+					"City": "London",
+				}
+			]
+		},
+		{
+			"Name": "Vibin Dass",
+			"Dob": "12/22/1979",
+			"Designation": "Sr. Systems Analyst",
+			"Address":[
+				{
+					"Type": "Home",
+					"Address1": "Regal Avalon Apartment",
+					"Address2": "Moolepadam Road",
+					"Address3": "682030",
+					"City": "Kochi",
+				},
+				{
+					"Type": "Office",
+					"Address1": "UST GLobal",
+					"Address2": "Vismaya Building",
+					"Address3": "Infopark",
+					"City": "Kochi",
+				}
+			]
+		}
+	]
+
+}
